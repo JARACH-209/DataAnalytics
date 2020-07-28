@@ -8,6 +8,8 @@ The data is present in the form of 3 Trace sets : Raw, Processed and Result set.
 Raw data is in the form of compressed json files which is almost 1 TB in size.
 The dataset is split into data that is based on the recorded audio, and those based on sensor readings.
 
+Basic, cleaning, understaing and modeling of data.
+
 Analysis for Internship under Dr. Suchetana Chakraborty, Assistant Professor at IIIT Guwahati
 
 
