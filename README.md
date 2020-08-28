@@ -13,7 +13,7 @@ Basic, cleaning, understaing and modeling of data.
 
 ## 2.Wine Dataset : Color Analysis
  
- Investigations of top 3 factors affecting color intensity of wine. 
+ Investigating top 3 factors which affect the color intensity of wine. 
 
 
 
